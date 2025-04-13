@@ -4,3 +4,4 @@
 
 - Nathan Cortez
 - Jim Klick
+- Lana Hendrickson
